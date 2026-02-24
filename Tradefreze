@@ -8,7 +8,7 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 local isMobile = UserInputService.TouchEnabled and not UserInputService.MouseEnabled
 
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "NexioHub"
+screenGui.Name = "veni script"
 screenGui.ResetOnSpawn = false
 screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
